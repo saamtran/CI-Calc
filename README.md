@@ -1,1 +1,1 @@
-# CI-Calc
+# CI-Calculator
