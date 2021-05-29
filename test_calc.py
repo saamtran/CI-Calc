@@ -17,4 +17,4 @@ class TestCalcApp:
         assert 50 == calc.multiplication(25, 2)
 
     def testDivision(self):
-        assert 5 == calc.division(125, 5)
+        assert 25 == calc.division(125, 5)
